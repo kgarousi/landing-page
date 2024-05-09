@@ -80,8 +80,8 @@ button {
 .second-section img{
     border: solid #3882f6;
     border-radius: 12px;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -90,8 +90,9 @@ button {
     flex-direction: row;
 }
 .subtext-container p{
-    width: 200px;
+    width: 150px;
     text-align: center;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 80px;
 }
