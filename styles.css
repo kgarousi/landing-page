@@ -114,3 +114,40 @@ button {
     margin-right: 300px;
     margin-bottom: 80px;
 }
+.fourth-section{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+.background-box{
+    width: 900px;
+    height: 100px;
+    background-color: #3882f6;
+    border-radius: 6px;
+    color: #e5e7eb;
+    padding: 20px;
+}
+
+.sign-up-button-bottom{
+    border: solid #e5e7eb;
+    margin-bottom: 4px
+}
+.fourth-section-row-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#1f2937;
+    color: white;
+    text-align: center;
+    height: 40px;
+    padding: 10px;
+  }
